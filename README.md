@@ -1,5 +1,5 @@
 # CS5045_HW9
-Location of homework file for cloning
+This repository serves as a location of the homework file for cloning by students.
 
 Clone the repository.
 
